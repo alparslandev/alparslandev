@@ -29,20 +29,6 @@ def save_medium_cache(cache):
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
 
-def parse_publication(link):
-    subdomain_match = re.match(r"https://([^.]+)\.medium\.com/", link)
-    path_match      = re.match(r"https://medium\.com/([^@/][^/]*)/", link)
-    system_paths    = {"tag", "tags", "search", "topic", "topics",
-                       "m", "about", "membership"}
-    if subdomain_match:
-        return subdomain_match.group(1).replace("-", " ").title()
-    elif path_match:
-        slug = path_match.group(1)
-        if slug not in system_paths:
-            return slug.replace("-", " ").title()
-    return None
-
-
 def fetch_medium_articles():
     cache = load_medium_cache()
 
@@ -61,7 +47,6 @@ def fetch_medium_articles():
                 cache[link] = {
                     "title":       entry.title,
                     "url":         link,
-                    "publication": parse_publication(link),
                 }
                 new_count += 1
 
@@ -79,8 +64,7 @@ def build_medium_rows(articles):
         return "_No articles found._"
     rows = []
     for a in articles:
-        pub = f" *({a['publication']})*" if a.get("publication") else ""
-        rows.append(f'- [{a["title"]}]({a["url"]}){pub}')
+        rows.append(f'- [{a["title"]}]({a["url"]})')
     return "\n".join(rows)
 
 def replace_section(content, start_marker, end_marker, new_body):
