@@ -1,4 +1,4 @@
-# Hi there, I'm Alparslan Selçuk Develioğlu!
+# 👋 Hi there, I'm Alparslan Selçuk Develioğlu! 😉
 
 ### Software Team Leader | PSM I Scrum Master | Ultratrail Runner 🏃‍♂️
 
@@ -14,14 +14,40 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 * **Scrum Expert:** Certified **Professional Scrum Master (PSM I)**, focused on Agile principles and high-performing team dynamics.
 * **Technical Mentor:** Passionate about SOLID, Design Patterns, and Git, holding weekly training sessions for my teams.
 
+![](https://github-readme-stats.vercel.app/api?username=alparslandev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=alparslandev&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alparslandev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=alparslandev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=alparslandev.alparslandev)](#)
+
 ---
 
 ### Tech Stack
-| Category | Technologies |
-| :--- | :--- |
-| **Mobile** | Kotlin, Swift, Android SDK, iOS SDK, Hilt, Jetpack Compose, Stateflow |
-| **Frontend/Backend** | Vue.js, PostgreSQL, MVVM, Maven |
-| **Tools/Methods** | Git Submodules, Mockito, Firebase, GitLab CI/CD, Scrum |
+<p align="center">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img alt="Hilt" src="https://img.shields.io/badge/Dagger_Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img alt="Scrum" src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-444444?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
 
 ---
 
