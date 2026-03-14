@@ -36,4 +36,3 @@ By day, I architect complex software systems and lead high-performing engineerin
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alparslandev)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/alparslandev)
 [<img src="https://img.shields.io/badge/Garmin-007CC3?style=for-the-badge&logo=garmin&logoColor=white" />](https://connect.garmin.com/app/profile/3f4a5562-f082-4d8f-ab43-058d811f1246)
-[<img src="https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=pwa&logoColor=white" />](https://alparslan.dev)
