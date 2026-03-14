@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Alparslan Selçuk Develioğlu!
+# Hi there, I'm Alparslan Selçuk Develioğlu!
 
 ### Software Team Leader | PSM I Scrum Master | Ultratrail Runner 🏃‍♂️
 
@@ -8,15 +8,15 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 
 ---
 
-### 🚀 Professional Snapshot
-* 🏢 **Current Role:** Leading Editor CMS development at **Lebib Yalkın Yayımları**, reducing bugs/hotfixes by **75%** through strict code reviews.
-* 🏦 **Fintech Experience:** Rebuilt **ING Türkiye** mobile app from scratch; contributed to **ZiraatPay** (Digital Wallet) initiatives.
-* 🎓 **Scrum Expert:** Certified **Professional Scrum Master (PSM I)**, focused on Agile principles and high-performing team dynamics.
-* 💡 **Technical Mentor:** Passionate about SOLID, Design Patterns, and Git, holding weekly training sessions for my teams.
+### Professional Snapshot
+* **Current Role:** Leading Editor CMS development at **Lebib Yalkın Yayımları**, reducing bugs/hotfixes by **75%** through strict code reviews.
+* **Fintech Experience:** Rebuilt **ING Türkiye** mobile app from scratch; contributed to **ZiraatPay** (Digital Wallet) initiatives.
+* **Scrum Expert:** Certified **Professional Scrum Master (PSM I)**, focused on Agile principles and high-performing team dynamics.
+* **Technical Mentor:** Passionate about SOLID, Design Patterns, and Git, holding weekly training sessions for my teams.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 | Category | Technologies |
 | :--- | :--- |
 | **Mobile** | Kotlin, Swift, Android SDK, iOS SDK, Hilt, Jetpack Compose, Stateflow |
@@ -25,7 +25,7 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 
 ---
 
-## ✍️ Latest Blog Posts
+## Latest Blog Posts
 <!-- MEDIUM-ARTICLES:START -->
 - [Dear Vibe Coder, Bring Your Idea to Life Now!](https://medium.com/becoming-for-better/dear-vibe-coder-bring-your-idea-to-life-now-5532d4c30068?source=rss-14c49c9dd1d5------2)
 - [Vibe Coding for 10 Years Experienced Software Developer](https://medium.com/becoming-for-better/vibe-coding-for-10-years-experienced-software-developer-de4298cefedf?source=rss-14c49c9dd1d5------2)
@@ -40,14 +40,14 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 <!-- MEDIUM-ARTICLES:END -->
 ---
 
-### 🏔️ Beyond the Code
+### Beyond the Code
 * 🏃 **Ultratrail Running:** Cappadocia Ultra-Trail finisher and constantly training for 50K+ challenges.
 * 📚 **Science Fiction:** A deep thinker on time and mind; a fan of Isaac Asimov's "The End of Eternity."
 * ☕ **V60 Enthusiast:** Fueling my sessions with Indonesian V60 coffee.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/alparslanselcukdevelioglu)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alparslandev)
