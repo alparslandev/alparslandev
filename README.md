@@ -18,7 +18,7 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alparslandev&theme=dark&hide_border=false" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslandev&theme=dark&layout=compact&hide=csharp,shaderlab,hlsl,html,css&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslandev&theme=dark&layout=compact&hide=csharp,shaderlab,hlsl,html,css&include_all_commits=true&count_private=true&v=2" height="180"/>
 </p>
 
 ---
