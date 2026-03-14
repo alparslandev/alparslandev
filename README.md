@@ -14,15 +14,12 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 * **Scrum Expert:** Certified **Professional Scrum Master (PSM I)**, focused on Agile principles and high-performing team dynamics.
 * **Technical Mentor:** Passionate about SOLID, Design Patterns, and Git, holding weekly training sessions for my teams.
 
-![](https://github-readme-stats.vercel.app/api?username=alparslandev&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=alparslandev&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alparslandev&theme=dark&layout=compact&include_all_commits=true&count_private=true)
-
-![](https://github-profile-trophy.vercel.app/?username=alparslandev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-[![](https://visitor-badge.laobi.icu/badge?page_id=alparslandev.alparslandev)](#)
+### 📊 GitHub Stats & Languages
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alparslandev&theme=dark&hide_border=false" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslandev&theme=dark&layout=compact&hide=csharp,shaderlab,hlsl&include_all_commits=true&count_private=true" height="180"/>
+</p>
 
 ---
 
