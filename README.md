@@ -1,17 +1,27 @@
-# 👋 Hi there, I'm Alparslan!
+# 👋 Hi there, I'm Alparslan Selçuk Develioğlu!
 
-### Software Team Leader | Scrum Master | Ultratrail Runner | Blogger
+### Software Team Leader | PSM I Scrum Master | Ultratrail Runner 🏃‍♂️
 
-I start my days at the crack of dawn with **endurance** training, whether on the trails or in the gym. Pushing my physical limits sharpens my mind for the complex technical challenges of the day.
+9+ years of software engineering expertise combined with the discipline of an Ultratrail runner. My professional philosophy is built on three pillars: clean code, rigid code reviews, and measurable team growth.
 
-By day, I architect complex software systems and lead high-performing engineering teams. On weekends, I head to the mountains to test my endurance on 50K+ trails. Whether in the code I write or the trails I run, I have one singular focus: **"Sustainable High Performance."**
+Whether architecting complex systems or tackling 60K+ mountain trails, I maintain a singular focus: "Sustainable High Performance."
 
 ---
 
-### Areas of Focus
-* **Engineering Leadership:** Building scalable architectures, optimizing CI/CD workflows within the GitLab ecosystem, and driving high-performance team management via Scrum.
-* **Content Creation:** Sharing insights and experiences on the software industry, personal development processes, and the discipline of ultratrail running.
-* **Endurance Sports:** An endurance athlete currently training for demanding 50K+ races like Kaçkar and Eiger Ultra Trail.
+### 🚀 Professional Snapshot
+* 🏢 **Current Role:** Leading Editor CMS development at **Lebib Yalkın Yayımları**, reducing bugs/hotfixes by **75%** through strict code reviews.
+* 🏦 **Fintech Experience:** Rebuilt **ING Türkiye** mobile app from scratch; contributed to **ZiraatPay** (Digital Wallet) initiatives.
+* 🎓 **Scrum Expert:** Certified **Professional Scrum Master (PSM I)**, focused on Agile principles and high-performing team dynamics.
+* 💡 **Technical Mentor:** Passionate about SOLID, Design Patterns, and Git, holding weekly training sessions for my teams.
+
+---
+
+### 💻 Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile** | Kotlin, Swift, Android SDK, iOS SDK, Hilt, Jetpack Compose, Stateflow |
+| **Frontend/Backend** | Vue.js, PostgreSQL, MVVM, Maven |
+| **Tools/Methods** | Git Submodules, Mockito, Firebase, GitLab CI/CD, Scrum |
 
 ---
 
@@ -28,6 +38,13 @@ By day, I architect complex software systems and lead high-performing engineerin
 - [A New Watch, A New Gadget: When Excitement Becomes an Excuse, Not Motivation](https://medium.com/illumination/a-new-watch-a-new-gadget-when-excitement-becomes-an-excuse-not-motivation-aa55b228593c?source=rss-14c49c9dd1d5------2)
 - [My Sci-Fi Maddness #3 “The End of Eternity” and “1984”: A Comparison on Time and Mind](https://medium.com/becoming-for-better/my-sci-fi-maddness-3-the-end-of-eternity-and-1984-a-comparison-on-time-and-mind-3a88c094ecac?source=rss-14c49c9dd1d5------2)
 <!-- MEDIUM-ARTICLES:END -->
+---
+
+### 🏔️ Beyond the Code
+* 🏃 **Ultratrail Running:** Cappadocia Ultra-Trail finisher and constantly training for 50K+ challenges.
+* 📚 **Science Fiction:** A deep thinker on time and mind; a fan of Isaac Asimov's "The End of Eternity."
+* ☕ **V60 Enthusiast:** Fueling my sessions with Indonesian V60 coffee.
+
 ---
 
 ### 📫 Connect with Me
