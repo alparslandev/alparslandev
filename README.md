@@ -41,9 +41,9 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 ---
 
 ### Beyond the Code
-* 🏃 **Ultratrail Running:** Cappadocia Ultra-Trail finisher and constantly training for 50K+ challenges.
-* 📚 **Science Fiction:** A deep thinker on time and mind; a fan of Isaac Asimov's "The End of Eternity."
-* ☕ **V60 Enthusiast:** Fueling my sessions with Indonesian V60 coffee.
+* 🏃 **Ultratrail Running:** Cappadocia Ultra-Trail finisher and constantly training for 60K+ challenges.
+* 📚 **Science Fiction:** A deep thinker on time and mind; a fan of Isaac Asimov.
+* ☕ **V60 Enthusiast:** Fueling my sessions with Indonesian Sumatra V60 coffee.
 
 ---
 
