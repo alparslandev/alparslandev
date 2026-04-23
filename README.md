@@ -49,6 +49,7 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 
 ## Latest Blog Posts
 <!-- MEDIUM-ARTICLES:START -->
+- [Opening 11 Million Character HTML in a Mobile WebView: Virtual Chunking](https://levelup.gitconnected.com/opening-11-million-character-html-in-a-mobile-webview-virtual-chunking-daf9ef8f03c3?source=rss-14c49c9dd1d5------2)
 - [One Prompt, Four Different AIs: Which One Is Really Better?](https://medium.com/becoming-for-better/one-prompt-four-different-ais-which-one-is-really-better-e7bb6daa7798?source=rss-14c49c9dd1d5------2)
 - [Dear Vibe Coder, Bring Your Idea to Life Now!](https://medium.com/becoming-for-better/dear-vibe-coder-bring-your-idea-to-life-now-5532d4c30068?source=rss-14c49c9dd1d5------2)
 - [Vibe Coding for 10 Years Experienced Software Developer](https://medium.com/becoming-for-better/vibe-coding-for-10-years-experienced-software-developer-de4298cefedf?source=rss-14c49c9dd1d5------2)
@@ -58,7 +59,6 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 - [You Can’t See, But You Can Feel It: The Golden Ratio](https://proandroiddev.com/you-cant-see-but-you-can-feel-it-the-golden-ratio-8dfe5410b666?source=rss-14c49c9dd1d5------2)
 - [Stop Numbing Yourself With Reels and Shorts](https://medium.com/illumination/this-is-what-happens-when-you-stop-numbing-yourself-with-reels-and-shorts-c28c0de91c1f?source=rss-14c49c9dd1d5------2)
 - [You Can’t Buy Motivation: Why Habits Matter More Than Gear](https://medium.com/illumination/you-cant-buy-motivation-why-habits-matter-more-than-gear-26df04a6cfc9?source=rss-14c49c9dd1d5------2)
-- [A New Watch, A New Gadget: When Excitement Becomes an Excuse, Not Motivation](https://medium.com/illumination/a-new-watch-a-new-gadget-when-excitement-becomes-an-excuse-not-motivation-aa55b228593c?source=rss-14c49c9dd1d5------2)
 <!-- MEDIUM-ARTICLES:END -->
 ---
 
