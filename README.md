@@ -17,7 +17,7 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 ### 📊 GitHub Stats & Languages
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=alparslandev&theme=dark&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alparslandev&theme=dark&layout=compact&hide=shaderlab,hlsl,html,css,cpp,c%2B%2B,cplusplus,gap,cmake,scss,python&include_all_commits=true&count_private=true&cache_id=20260514" height="180"/>
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=alparslandev&theme=dark&layout=compact&hide=shaderlab,hlsl,html,css,cpp,c%2B%2B,cplusplus,gap,cmake,scss,python&include_all_commits=true&count_private=true" height="180"/>
 </p>
 
 ---
