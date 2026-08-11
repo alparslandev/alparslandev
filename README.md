@@ -17,12 +17,12 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 ### 📊 GitHub Stats & Languages
 <p align="center">
   <!-- streak:start -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-dark.svg?v=0">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=0">
-    <img alt="GitHub streak" src="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=0" width="457" height="180">
-  </picture>
-  <!-- streak:end -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-dark.svg?v=5196-119-119">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=5196-119-119">
+  <img alt="GitHub streak" src="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=5196-119-119" width="457" height="180">
+</picture>
+<!-- streak:end -->
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=alparslandev&theme=dark&layout=compact&hide=shaderlab,hlsl,html,css,cpp,c%2B%2B,cplusplus,gap,cmake,scss,python&include_all_commits=true&count_private=true" height="180"/>
 </p>
 
