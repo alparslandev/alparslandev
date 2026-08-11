@@ -16,7 +16,13 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 
 ### 📊 GitHub Stats & Languages
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alparslandev&theme=dark&hide_border=false" height="180"/>
+  <!-- streak:start -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-dark.svg?v=0">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=0">
+    <img alt="GitHub streak" src="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=0" width="457" height="180">
+  </picture>
+  <!-- streak:end -->
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=alparslandev&theme=dark&layout=compact&hide=shaderlab,hlsl,html,css,cpp,c%2B%2B,cplusplus,gap,cmake,scss,python&include_all_commits=true&count_private=true" height="180"/>
 </p>
 
@@ -54,7 +60,7 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 - [One Prompt, Four Different AIs: Which One Is Really Better?](https://medium.com/becoming-for-better/one-prompt-four-different-ais-which-one-is-really-better-e7bb6daa7798?source=rss-14c49c9dd1d5------2)
 - [Dear Vibe Coder, Bring Your Idea to Life Now!](https://medium.com/becoming-for-better/dear-vibe-coder-bring-your-idea-to-life-now-5532d4c30068?source=rss-14c49c9dd1d5------2)
 - [Vibe Coding for 10 Years Experienced Software Developer](https://medium.com/becoming-for-better/vibe-coding-for-10-years-experienced-software-developer-de4298cefedf?source=rss-14c49c9dd1d5------2)
-- [The Moment My Ex-Manager Was Rightfully Angry at Me : Dagger Hilt and the DI Lesson](https://proandroiddev.com/the-moment-my-ex-manager-was-rightfully-angry-at-me-dagger-hilt-and-the-di-lesson-85095457f90e?source=rss-14c49c9dd1d5------2)
+- [The Moment My Ex-Manager Was Rightfully Angry at Me : Dagger Hilt and the DI Lesson](https://proandroiddev.com/the-moment-my-ex-manager-was-rightfully-angry-at-me-dagger-hilt-and-the-di-lesson-85095457f90e?source=rss-14c49c9dd1d5------2)
 - [7 Questions That Help Me Quit ChatGPT Plus and Every Subscription](https://medium.com/illumination/7-questions-that-help-me-quit-chatgpt-plus-and-every-subscription-8b9de3946611?source=rss-14c49c9dd1d5------2)
 - [5 Ways “Just Playing Games” Turned Me Into a Better Human Than More](https://medium.com/illumination/5-ways-just-playing-games-turned-me-into-a-better-human-than-you-3fae1788bdb2?source=rss-14c49c9dd1d5------2)
 <!-- MEDIUM-ARTICLES:END -->
