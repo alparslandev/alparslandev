@@ -1,0 +1,45 @@
+name: streak
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/streak.mjs'
+      - '.github/workflows/streak.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: streak
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Render streak cards
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.STREAK_TOKEN || github.token }}
+          STREAK_TZ: Europe/Istanbul
+          STREAK_HEIGHT: '180'
+        run: node scripts/streak.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/streak-light.svg assets/streak-dark.svg README.md
+          git diff --staged --quiet && echo 'no change' && exit 0
+          git commit -m 'chore: refresh streak card'
+          git push
