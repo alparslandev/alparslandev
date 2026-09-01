@@ -1,5 +1,5 @@
 <svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="streakTitle">
-<title id="streakTitle">alparslandev on GitHub: 140 day current streak, 140 day longest streak, 5726 total contributions</title>
+<title id="streakTitle">alparslandev on GitHub: 140 day current streak, 140 day longest streak, 5777 total contributions</title>
 <style>
 .num{font:700 28px 'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;fill:#151515}
 .cap{font:700 14px 'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;fill:#151515}
@@ -15,7 +15,7 @@
 <line x1="165" y1="38" x2="165" y2="157" stroke="#e4e2e2"/>
 <line x1="330" y1="38" x2="330" y2="157" stroke="#e4e2e2"/>
 <g class="in">
-<text class="num" x="82.5" y="78" text-anchor="middle" dominant-baseline="central">5726</text>
+<text class="num" x="82.5" y="78" text-anchor="middle" dominant-baseline="central">5777</text>
 <text class="cap" x="82.5" y="112" text-anchor="middle">Total Contributions</text>
 <text class="sub" x="82.5" y="133" text-anchor="middle">Jan 7, 2014 - Present</text>
 </g>
