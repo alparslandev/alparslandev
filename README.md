@@ -18,9 +18,9 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 <p align="center">
   <!-- streak:start -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-dark.svg?v=7255-172-172">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=7255-172-172">
-  <img alt="GitHub streak" src="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=7255-172-172" width="457" height="180">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-dark.svg?v=7266-173-173">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=7266-173-173">
+  <img alt="GitHub streak" src="https://raw.githubusercontent.com/alparslandev/alparslandev/main/assets/streak-light.svg?v=7266-173-173" width="457" height="180">
 </picture>
 <!-- streak:end -->
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=alparslandev&theme=dark&layout=compact&hide=shaderlab,hlsl,html,css,cpp,c%2B%2B,cplusplus,gap,cmake,scss,python&include_all_commits=true&count_private=true" height="180"/>
