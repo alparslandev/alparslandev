@@ -53,6 +53,7 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 
 ## Latest Blog Posts
 <!-- MEDIUM-ARTICLES:START -->
+- [Two Months of Yarış Radarı: Proud Moments and Mistakes](https://medium.com/becoming-for-better/two-months-of-yar%C4%B1%C5%9F-radar%C4%B1-proud-moments-and-mistakes-00373b4c9266?source=rss-14c49c9dd1d5------2)
 - [ChatGPT Cited in 3 Days: A Generative Engine Optimization (GEO-AEO) Case Study](https://levelup.gitconnected.com/chatgpt-cited-in-3-days-a-generative-engine-optimization-geo-aeo-case-study-f4c806f8eb58?source=rss-14c49c9dd1d5------2)
 - [A Principal Who Made a Difference #2: The Classroom That Blooms in the Snow](https://medium.com/becoming-for-better/a-principal-who-made-a-difference-2-the-classroom-that-blooms-in-the-snow-05bc6b290c83?source=rss-14c49c9dd1d5------2)
 - [A Principal Who Made a Difference #3: Pur Cliffs and Partridge Sounds](https://medium.com/becoming-for-better/a-principal-who-made-a-difference-3-pur-cliffs-and-partridge-sounds-de3100c203e3?source=rss-14c49c9dd1d5------2)
@@ -62,7 +63,6 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 - [Vibe Coding for 10 Years Experienced Software Developer](https://medium.com/becoming-for-better/vibe-coding-for-10-years-experienced-software-developer-de4298cefedf?source=rss-14c49c9dd1d5------2)
 - [The Moment My Ex-Manager Was Rightfully Angry at Me : Dagger Hilt and the DI Lesson](https://proandroiddev.com/the-moment-my-ex-manager-was-rightfully-angry-at-me-dagger-hilt-and-the-di-lesson-85095457f90e?source=rss-14c49c9dd1d5------2)
 - [7 Questions That Help Me Quit ChatGPT Plus and Every Subscription](https://medium.com/illumination/7-questions-that-help-me-quit-chatgpt-plus-and-every-subscription-8b9de3946611?source=rss-14c49c9dd1d5------2)
-- [5 Ways “Just Playing Games” Turned Me Into a Better Human Than More](https://medium.com/illumination/5-ways-just-playing-games-turned-me-into-a-better-human-than-you-3fae1788bdb2?source=rss-14c49c9dd1d5------2)
 <!-- MEDIUM-ARTICLES:END -->
 ---
 
