@@ -19,9 +19,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: 📦 Install Dependencies
-        run: pip install requests feedparser
-
       - name: 🚀 Run Article Fetcher
         run: python scripts/fetch_articles.py
 

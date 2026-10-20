@@ -1,90 +1,65 @@
-import re
 import json
-import os
-import feedparser
-import requests
+import re
+import urllib.request
 
-MEDIUM_USERNAME = "alparslandev"
-README_PATH     = "README.md"
-MEDIUM_CACHE    = "medium_articles.json"
+BLOG_URL      = "https://devdiscipline.com"
+FEED_URL      = f"{BLOG_URL}/feed.json"
+README_PATH   = "README.md"
+ARTICLE_LIMIT = 10
 
-MEDIUM_START = "<!-- MEDIUM-ARTICLES:START -->"
-MEDIUM_END   = "<!-- MEDIUM-ARTICLES:END -->"
+BLOG_START = "<!-- BLOG-ARTICLES:START -->"
+BLOG_END   = "<!-- BLOG-ARTICLES:END -->"
 
-SESSION = requests.Session()
-SESSION.headers.update({
-    "User-Agent": "Mozilla/5.0 (compatible; GitHub Actions bot)"
-})
+USER_AGENT = "Mozilla/5.0 (compatible; GitHub Actions bot)"
 
 
-def load_medium_cache():
-    if os.path.exists(MEDIUM_CACHE):
-        with open(MEDIUM_CACHE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {}
+def fetch_blog_articles():
+    request = urllib.request.Request(
+        FEED_URL,
+        headers={"User-Agent": USER_AGENT, "Accept": "application/feed+json, application/json"},
+    )
+    with urllib.request.urlopen(request, timeout=15) as response:
+        feed = json.load(response)
+    items = sorted(feed.get("items", []), key=lambda item: item.get("date_published", ""), reverse=True)
+    articles = [{"title": item["title"], "url": item["url"]} for item in items if item.get("title") and item.get("url")]
+    return articles[:ARTICLE_LIMIT]
 
 
-def save_medium_cache(cache):
-    with open(MEDIUM_CACHE, "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=2)
+def markdown_title(title):
+    return title.replace("[", "\\[").replace("]", "\\]")
 
 
-def fetch_medium_articles():
-    cache = load_medium_cache()
+def build_blog_rows(articles):
+    return "\n".join(f'- [{markdown_title(a["title"])}]({a["url"]})' for a in articles)
 
-    # Medium bazen GitHub Actions IP'lerini bloke eder.
-    # Bu durumda cache'teki mevcut makaleleri kullanırız.
-    rss_url = f"https://medium.com/feed/@{MEDIUM_USERNAME}"
-    try:
-        response = SESSION.get(rss_url, timeout=(5, 10))  # (connect, read) timeout
-        response.raise_for_status()
-        feed = feedparser.parse(response.text)
-
-        new_count = 0
-        for entry in feed.entries:
-            link = entry.link
-            if link not in cache:
-                cache[link] = {
-                    "title":       entry.title,
-                    "url":         link,
-                }
-                new_count += 1
-
-        save_medium_cache(cache)
-        print(f"   📦 Cache: {len(cache)} total | +{new_count} new")
-
-    except Exception as e:
-        print(f"   ⚠️  Medium RSS unavailable: {e}")
-        print(f"   📦 Using cache: {len(cache)} articles")
-
-    return list(cache.values())
-
-def build_medium_rows(articles):
-    if not articles:
-        return "_No articles found._"
-    rows = []
-    for a in articles:
-        rows.append(f'- [{a["title"]}]({a["url"]})')
-    return "\n".join(rows)
 
 def replace_section(content, start_marker, end_marker, new_body):
     pattern = re.compile(
         rf"{re.escape(start_marker)}.*?{re.escape(end_marker)}",
         re.DOTALL,
     )
-    return pattern.sub(f"{start_marker}\n{new_body}\n{end_marker}", content)
+    return pattern.sub(lambda _: f"{start_marker}\n{new_body}\n{end_marker}", content)
 
 
 def main():
-    print("📡 Fetching Medium articles (with cache)...")
-    medium_articles = fetch_medium_articles()
-    print(f"   ✅ {len(medium_articles)} total articles.")
+    print(f"📡 Fetching articles from {FEED_URL}...")
+    try:
+        articles = fetch_blog_articles()
+    except Exception as error:
+        print(f"   ⚠️  Blog feed unavailable: {error}")
+        print("   README.md left unchanged.")
+        return
+    if not articles:
+        print("   ⚠️  Blog feed has no articles, README.md left unchanged.")
+        return
+    print(f"   ✅ {len(articles)} latest articles.")
 
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
+    if BLOG_START not in content or BLOG_END not in content:
+        raise SystemExit(f"README.md is missing {BLOG_START} / {BLOG_END}")
 
-    content = replace_section(content, MEDIUM_START, MEDIUM_END,
-                               build_medium_rows(medium_articles))
+    content = replace_section(content, BLOG_START, BLOG_END, build_blog_rows(articles))
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content)

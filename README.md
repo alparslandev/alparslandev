@@ -52,18 +52,20 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 ---
 
 ## Latest Blog Posts
-<!-- MEDIUM-ARTICLES:START -->
-- [Two Months of Yarış Radarı: Proud Moments and Mistakes](https://medium.com/becoming-for-better/two-months-of-yar%C4%B1%C5%9F-radar%C4%B1-proud-moments-and-mistakes-00373b4c9266?source=rss-14c49c9dd1d5------2)
-- [ChatGPT Cited in 3 Days: A Generative Engine Optimization (GEO-AEO) Case Study](https://levelup.gitconnected.com/chatgpt-cited-in-3-days-a-generative-engine-optimization-geo-aeo-case-study-f4c806f8eb58?source=rss-14c49c9dd1d5------2)
-- [A Principal Who Made a Difference #2: The Classroom That Blooms in the Snow](https://medium.com/becoming-for-better/a-principal-who-made-a-difference-2-the-classroom-that-blooms-in-the-snow-05bc6b290c83?source=rss-14c49c9dd1d5------2)
-- [A Principal Who Made a Difference #3: Pur Cliffs and Partridge Sounds](https://medium.com/becoming-for-better/a-principal-who-made-a-difference-3-pur-cliffs-and-partridge-sounds-de3100c203e3?source=rss-14c49c9dd1d5------2)
-- [Opening 11 Million Character HTML in a Mobile WebView: Virtual Chunking](https://levelup.gitconnected.com/opening-11-million-character-html-in-a-mobile-webview-virtual-chunking-daf9ef8f03c3?source=rss-14c49c9dd1d5------2)
-- [One Prompt, Four Different AIs: Which One Is Really Better?](https://medium.com/becoming-for-better/one-prompt-four-different-ais-which-one-is-really-better-e7bb6daa7798?source=rss-14c49c9dd1d5------2)
-- [Dear Vibe Coder, Bring Your Idea to Life Now!](https://medium.com/becoming-for-better/dear-vibe-coder-bring-your-idea-to-life-now-5532d4c30068?source=rss-14c49c9dd1d5------2)
-- [Vibe Coding for 10 Years Experienced Software Developer](https://medium.com/becoming-for-better/vibe-coding-for-10-years-experienced-software-developer-de4298cefedf?source=rss-14c49c9dd1d5------2)
-- [The Moment My Ex-Manager Was Rightfully Angry at Me : Dagger Hilt and the DI Lesson](https://proandroiddev.com/the-moment-my-ex-manager-was-rightfully-angry-at-me-dagger-hilt-and-the-di-lesson-85095457f90e?source=rss-14c49c9dd1d5------2)
-- [7 Questions That Help Me Quit ChatGPT Plus and Every Subscription](https://medium.com/illumination/7-questions-that-help-me-quit-chatgpt-plus-and-every-subscription-8b9de3946611?source=rss-14c49c9dd1d5------2)
-<!-- MEDIUM-ARTICLES:END -->
+<!-- BLOG-ARTICLES:START -->
+- [My Sci-Fi Madness #4: Is The Last of Us Sci-Fi? I Watched the Show Before Playing the Game](https://devdiscipline.com/posts/my-sci-fi-madness-4-is-the-last-of-us-sci-fi)
+- [How I Earned My PSM I Certificate #4: Scrum Mistakes at the Companies I Worked For](https://devdiscipline.com/posts/how-i-earned-my-psm-i-certificate-4-scrum-mistakes-at-the-companies)
+- [How I Earned My PSM I Certificate #3: The Exam, Using AI and Tactics](https://devdiscipline.com/posts/how-i-earned-my-psm-i-certificate-3-the-exam-using-ai-and-tactics)
+- [How I Earned My PSM I Certificate #2: The Training We Took and Our Trainer's Books](https://devdiscipline.com/posts/how-i-earned-my-psm-i-certificate-2-the-training-we-took-and-our)
+- [How I Earned My PSM I Certificate #1: What Is Scrum?](https://devdiscipline.com/posts/how-i-earned-my-psm-i-certificate-1-what-is-scrum)
+- [Two Months of Yarış Radarı: Proud Moments and Mistakes](https://devdiscipline.com/posts/two-months-of-yaris-radari-proud-moments-and-mistakes)
+- [A Principal Who Made a Difference 4: You'll Not Have My Blessing](https://devdiscipline.com/posts/a-principal-who-made-a-difference-4-you-ll-not-have-blessing)
+- [Mobile Push Notification Integration with Firebase Using Vue.js and Quasar: A Detailed Guide](https://devdiscipline.com/posts/mobile-push-notification-integration-with-firebase-using-vue-js-and-quasar-a-detailed-guide)
+- [One Prompt, Four Different AIs: Which One Is Really Better?](https://devdiscipline.com/posts/one-prompt-four-different-ais-which-one-is-really-better)
+- [Your Resume Might Be Getting Screened Out at a Glance! Here Are Some Behind-the-Scenes Tips.](https://devdiscipline.com/posts/your-resume-might-be-getting-screened-out-at-a-glance-here)
+<!-- BLOG-ARTICLES:END -->
+
+[More on devdiscipline.com](https://devdiscipline.com)
 ---
 
 ### Beyond the Code
