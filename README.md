@@ -53,6 +53,7 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 
 ## Latest Blog Posts
 <!-- BLOG-ARTICLES:START -->
+- [The Last of Us Show vs Game Differences: Seasons 1 and 2 vs Part I and Part II](https://devdiscipline.com/posts/the-last-of-us-show-vs-game-differences)
 - [My Sci-Fi Madness #4: Is The Last of Us Sci-Fi? I Watched the Show Before Playing the Game](https://devdiscipline.com/posts/my-sci-fi-madness-4-is-the-last-of-us-sci-fi)
 - [How I Earned My PSM I Certificate #4: Scrum Mistakes at the Companies I Worked For](https://devdiscipline.com/posts/how-i-earned-my-psm-i-certificate-4-scrum-mistakes-at-the-companies)
 - [How I Earned My PSM I Certificate #3: The Exam, Using AI and Tactics](https://devdiscipline.com/posts/how-i-earned-my-psm-i-certificate-3-the-exam-using-ai-and-tactics)
@@ -62,7 +63,6 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 - [A Principal Who Made a Difference 4: You'll Not Have My Blessing](https://devdiscipline.com/posts/a-principal-who-made-a-difference-4-you-ll-not-have-blessing)
 - [Mobile Push Notification Integration with Firebase Using Vue.js and Quasar: A Detailed Guide](https://devdiscipline.com/posts/mobile-push-notification-integration-with-firebase-using-vue-js-and-quasar-a-detailed-guide)
 - [One Prompt, Four Different AIs: Which One Is Really Better?](https://devdiscipline.com/posts/one-prompt-four-different-ais-which-one-is-really-better)
-- [Your Resume Might Be Getting Screened Out at a Glance! Here Are Some Behind-the-Scenes Tips.](https://devdiscipline.com/posts/your-resume-might-be-getting-screened-out-at-a-glance-here)
 <!-- BLOG-ARTICLES:END -->
 
 [More on devdiscipline.com](https://devdiscipline.com)
