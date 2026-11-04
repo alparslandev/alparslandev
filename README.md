@@ -53,6 +53,7 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 
 ## Latest Blog Posts
 <!-- BLOG-ARTICLES:START -->
+- [Runarchy Running Club App: Live Map, SOS, Badges](https://devdiscipline.com/posts/runarchy-running-club-app)
 - [The Last of Us Show vs Game Differences: Seasons 1 and 2 vs Part I and Part II](https://devdiscipline.com/posts/the-last-of-us-show-vs-game-differences)
 - [My Sci-Fi Madness #4: Is The Last of Us Sci-Fi? I Watched the Show Before Playing the Game](https://devdiscipline.com/posts/my-sci-fi-madness-4-is-the-last-of-us-sci-fi)
 - [How I Earned My PSM I Certificate #4: Scrum Mistakes at the Companies I Worked For](https://devdiscipline.com/posts/how-i-earned-my-psm-i-certificate-4-scrum-mistakes-at-the-companies)
@@ -62,7 +63,6 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 - [Two Months of Yarış Radarı: Proud Moments and Mistakes](https://devdiscipline.com/posts/two-months-of-yaris-radari-proud-moments-and-mistakes)
 - [A Principal Who Made a Difference 4: You'll Not Have My Blessing](https://devdiscipline.com/posts/a-principal-who-made-a-difference-4-you-ll-not-have-blessing)
 - [Mobile Push Notification Integration with Firebase Using Vue.js and Quasar: A Detailed Guide](https://devdiscipline.com/posts/mobile-push-notification-integration-with-firebase-using-vue-js-and-quasar-a-detailed-guide)
-- [One Prompt, Four Different AIs: Which One Is Really Better?](https://devdiscipline.com/posts/one-prompt-four-different-ais-which-one-is-really-better)
 <!-- BLOG-ARTICLES:END -->
 
 [More on devdiscipline.com](https://devdiscipline.com)
