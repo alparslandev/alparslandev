@@ -53,6 +53,7 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 
 ## Latest Blog Posts
 <!-- BLOG-ARTICLES:START -->
+- [App With 13 Data Types Passed App Store Review First Time (2026)](https://devdiscipline.com/posts/app-with-13-data-types-app-store-approval)
 - [Runarchy Running Club App: Live Map, SOS, Badges](https://devdiscipline.com/posts/runarchy-running-club-app)
 - [The Last of Us Show vs Game Differences: Seasons 1 and 2 vs Part I and Part II](https://devdiscipline.com/posts/the-last-of-us-show-vs-game-differences)
 - [My Sci-Fi Madness #4: Is The Last of Us Sci-Fi? I Watched the Show Before Playing the Game](https://devdiscipline.com/posts/my-sci-fi-madness-4-is-the-last-of-us-sci-fi)
@@ -62,7 +63,6 @@ Whether architecting complex systems or tackling 60K+ mountain trails, I maintai
 - [How I Earned My PSM I Certificate #1: What Is Scrum?](https://devdiscipline.com/posts/how-i-earned-my-psm-i-certificate-1-what-is-scrum)
 - [Two Months of Yarış Radarı: Proud Moments and Mistakes](https://devdiscipline.com/posts/two-months-of-yaris-radari-proud-moments-and-mistakes)
 - [A Principal Who Made a Difference 4: You'll Not Have My Blessing](https://devdiscipline.com/posts/a-principal-who-made-a-difference-4-you-ll-not-have-blessing)
-- [Mobile Push Notification Integration with Firebase Using Vue.js and Quasar: A Detailed Guide](https://devdiscipline.com/posts/mobile-push-notification-integration-with-firebase-using-vue-js-and-quasar-a-detailed-guide)
 <!-- BLOG-ARTICLES:END -->
 
 [More on devdiscipline.com](https://devdiscipline.com)
